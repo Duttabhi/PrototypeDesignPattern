@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52fc4538-9212-476a-b72c-945e7b7697d1" name="Changes" comment="Prototype Design Pattern BookShop Example" />
+    <list default="true" id="52fc4538-9212-476a-b72c-945e7b7697d1" name="Changes" comment="Prototype Design Pattern BookShop Example">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BookShopRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
